@@ -1,1 +1,1 @@
-# BHMM
+# Bayesian hierarchical mediation model
